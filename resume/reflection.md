@@ -1,13 +1,13 @@
 
-### Can I explain what my code does?
-The first step for any project is to declare the Doctype, which in this case is HTML. I used the title tag to title the page and then followed the steps by section to add content to the page utilizing headers, unorganized lists and list items etc. I added section tags and ARIA roles as well as an SVG graphic.
+### Can I explain what my code does? ###
+CSS from what I understand takes an HTML file and makes it "pretty". Making use of classes and tags I'm able to manipulate the colour, layout, position and sizing of all elements on the page.
 
-### What was my coding process?
-I mostly tried to follow the instructions step by step. However, I think I focused too much on the example resume as well as my own because I had to backtrack quite a bit. I think in the future I will try to plan my projects better so I won't have to do that as much.
+### What was my coding process? ###
+I started with a colour scheme and layout that I liked from the lab and I made it work for my online resume. I've never seen a resume look like this so I'm not sure it's appropriate, but I like the way it looks. I followed the instructions as best as I could but I'm pretty sure I still did somethings out of order. I think I probably forgot where I left off at some point during the assignment.
 
-### What challenges did I have?
-Most of the challenges I faced were self-inflicted due to poor planning and lack of attention to detail on my part. I had to back track quite a bit in order to meet requirements that I misssed. I had to look up ARIA roles because I guess I missed what those were and how to implement them. I also had a decent amount of difficulty with the SVG graphic even with the help of AI.
+### What challenges did I have? ###
+Most of the challenges I faced were due to the amount of branching with Git and GitHub. I've also been having trouble with my directory structure as well. My pushes to Github only sometimes go through and I have no idea why. I feel like it has something to do with the fact that I moved my files to my one drive so I could work on it after work, that may have been a mistake.
 
-### What would I do differently now?
-I would definitely plan a little bit better and focus more on the requirements to make sure I don't miss anything intitially, as well as ensuring I know everything I need to know to complete the project beforehand so I don't have to stop in the middle to research things like ARIA roles. I
+### What would I do differently now? ###
+I definitely need to set up my directory structure better and not move it mid project. I'm going to set up the next one in one drive to begin with and see if that works because I need to be able to work on assignments at work. If not, I'll have to either keep it local on my laptop or on my PC.
 
